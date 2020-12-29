@@ -1,0 +1,18 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 233f6336b7f361f46aa74bfbeef07001, type: 3}
+  m_Name: Server-5-1
+  m_EditorClassIdentifier: 
+  character: 3
+  dialogue: What? No! Is she okay? What happened?
+  textShowInterval: 0.02
+  next: {fileID: 11400000, guid: 4c047fa20f4c4964fa6588c6d13d00a1, type: 2}

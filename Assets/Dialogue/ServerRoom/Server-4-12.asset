@@ -1,0 +1,18 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 233f6336b7f361f46aa74bfbeef07001, type: 3}
+  m_Name: Server-4-12
+  m_EditorClassIdentifier: 
+  character: 6
+  dialogue: "Very well. I\u2019m sorry for what\u2019s about to happen, Tulip."
+  textShowInterval: 0.02
+  next: {fileID: 11400000, guid: d8db2ce60eebe4d418e12b5d03527076, type: 2}

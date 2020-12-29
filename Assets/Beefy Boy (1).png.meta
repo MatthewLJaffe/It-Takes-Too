@@ -1,0 +1,319 @@
+fileFormatVersion: 2
+guid: 3200cd6043da2b24285e9bd5b557ba06
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -3622432183472425611
+    second: Beefy Boy (1)_0
+  - first:
+      213: -2340051298658958022
+    second: Beefy Boy (1)_1
+  - first:
+      213: -2738238051192261691
+    second: Beefy Boy (1)_2
+  - first:
+      213: 2574857345367863458
+    second: Beefy Boy (1)_3
+  - first:
+      213: -1407074995199637941
+    second: Beefy Boy (1)_4
+  - first:
+      213: 6238377270516689094
+    second: Beefy Boy (1)_5
+  - first:
+      213: 494810079658270768
+    second: Beefy Boy (1)_6
+  - first:
+      213: -3086350643654373862
+    second: Beefy Boy (1)_7
+  - first:
+      213: 5793162878021154501
+    second: Beefy Boy (1)_8
+  - first:
+      213: 3722575213113526188
+    second: Beefy Boy (1)_9
+  - first:
+      213: -8609245992174571523
+    second: Beefy Boy (1)_10
+  - first:
+      213: 1079701937138290506
+    second: Beefy Boy (1)_11
+  - first:
+      213: 5290779900307469314
+    second: Beefy Boy (1)_12
+  - first:
+      213: 1362065258278112827
+    second: Beefy Boy (1)_13
+  - first:
+      213: 1249912419556231349
+    second: Beefy Boy (1)_14
+  - first:
+      213: 2271475454990020844
+    second: Beefy Boy (1)_15
+  - first:
+      213: 6594003225319394402
+    second: Beefy Boy (1)_16
+  - first:
+      213: -6523120570436803552
+    second: Beefy Boy (1)_17
+  - first:
+      213: -1104114917826227111
+    second: Beefy Boy (1)_18
+  - first:
+      213: 3411321543210519015
+    second: Beefy Boy (1)_19
+  - first:
+      213: -6989717754839847486
+    second: Beefy Boy (1)_20
+  - first:
+      213: -276978930048856938
+    second: Beefy Boy (1)_21
+  - first:
+      213: -4989786738126919673
+    second: Beefy Boy (1)_22
+  - first:
+      213: 5906023529379608982
+    second: Beefy Boy (1)_23
+  - first:
+      213: 6712037177055617692
+    second: Beefy Boy (1)_24
+  - first:
+      213: 4118287628183815660
+    second: Beefy Boy (1)_25
+  - first:
+      213: 2824171557266046518
+    second: Beefy Boy (1)_26
+  - first:
+      213: 8672509906112623232
+    second: Beefy Boy (1)_27
+  - first:
+      213: 6280434516820124518
+    second: Beefy Boy (1)_28
+  - first:
+      213: -3945770210054102111
+    second: Beefy Boy (1)_29
+  - first:
+      213: 384418367849938957
+    second: Beefy Boy (1)_30
+  - first:
+      213: 928392976934713721
+    second: Beefy Boy (1)_31
+  - first:
+      213: -1121082078522141916
+    second: Beefy Boy (1)_32
+  - first:
+      213: -432370708187459955
+    second: Beefy Boy (1)_33
+  - first:
+      213: 7881108183232546566
+    second: Beefy Boy (1)_34
+  - first:
+      213: -2162104407228250638
+    second: Beefy Boy (1)_35
+  - first:
+      213: -6342090861012828553
+    second: Beefy Boy (1)_36
+  - first:
+      213: -8686648764537463503
+    second: Beefy Boy (1)_37
+  - first:
+      213: -8085512522473348983
+    second: Beefy Boy (1)_38
+  - first:
+      213: -3106490429210209487
+    second: Beefy Boy (1)_39
+  - first:
+      213: -9027632078098822792
+    second: Beefy Boy (1)_40
+  - first:
+      213: 5905030763417636557
+    second: Beefy Boy (1)_41
+  - first:
+      213: -6800823025336327819
+    second: Beefy Boy (1)_42
+  - first:
+      213: -1737092596931000185
+    second: Beefy Boy (1)_43
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 25
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Beefy Boy (1)_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 60
+        width: 60
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 575fe212f198abdc0800000000000000
+      internalID: -3622432183472425611
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Beefy Boy (1)_1
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 60
+        width: 60
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a35cd33fdb7768fd0800000000000000
+      internalID: -2340051298658958022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Beefy Boy (1)_2
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 60
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c33a301003dff9d0800000000000000
+      internalID: -2738238051192261691
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Beefy Boy (1)_3
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 0
+        width: 60
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a0f4f90d1bbbb320800000000000000
+      internalID: 2574857345367863458
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

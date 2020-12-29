@@ -1,0 +1,50 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/Menu.unity
+    guid: 46b064023deb8495185b973e95286431
+  - enabled: 1
+    path: Assets/Scenes/LivingRoom.unity
+    guid: 2df23674d631b834f819b9b989e0c884
+  - enabled: 1
+    path: Assets/Scenes/Hallway.unity
+    guid: 26157bbdf74a28a478b4f7fbd46b608d
+  - enabled: 1
+    path: Assets/Scenes/Kitchen.unity
+    guid: 9294e410e0a6b84408e348b7cf3da644
+  - enabled: 1
+    path: Assets/Scenes/Tulip.unity
+    guid: d4c6a4e8972724e579d09844f38b6c70
+  - enabled: 1
+    path: Assets/Scenes/City.unity
+    guid: fbdb1b9173e37468daa74822a509c38c
+  - enabled: 1
+    path: Assets/Scenes/Shop.unity
+    guid: 4ed0db9f4682d4861aa724fbb5c1ffa4
+  - enabled: 1
+    path: Assets/Scenes/Vent.unity
+    guid: 24f1021368fc841fda0b853ac1366f22
+  - enabled: 1
+    path: Assets/Scenes/ShopAfterVent.unity
+    guid: fbe436f6c47ad4930868a9df47723e41
+  - enabled: 1
+    path: Assets/Scenes/Lobby.unity
+    guid: 8af9c2f871fd7428c9a8694049870018
+  - enabled: 1
+    path: Assets/Scenes/Elevator.unity
+    guid: 741f8d85d274c4ae981d92069504d932
+  - enabled: 1
+    path: Assets/Scenes/SecurityHallway.unity
+    guid: 9da32be43b8e441babbffce8c8212cbe
+  - enabled: 1
+    path: Assets/Scenes/ServerRoom.unity
+    guid: a7840e430f48a4148b4d130e1783a1cc
+  - enabled: 0
+    path: Assets/Scenes/MartyScene.unity
+    guid: 65240cd7d39b6d54fbb5b8d7f15c6dca
+  m_configObjects: {}
